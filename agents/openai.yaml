@@ -1,0 +1,4 @@
+interface:
+  display_name: "T3 Fullstack Dev"
+  short_description: "T3 apps with BetterAuth, Prisma, tRPC, Tailwind, TS"
+  default_prompt: "Implement and debug T3 Stack features using BetterAuth, Prisma, tRPC, Tailwind, and TypeScript with production-safe patterns"
